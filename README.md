@@ -11,6 +11,7 @@ Duration:JUNE TO AUGUST 2024
 Mentor:N.Santhosh Kumar
 
 Overview of the project
+
 Student Grade Tracker
 ![image](https://github.com/AruzooNawaz/CODTECH-Task-1/assets/174237961/4b13a278-21e3-4374-84d2-6c279b46f8cd)
 
